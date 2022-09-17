@@ -1,4 +1,4 @@
-# React Todo App with API
+# React Todos App with API
 
 - [DEMO LINK](https://Sergii2705.github.io/react-todos-api/)
 
